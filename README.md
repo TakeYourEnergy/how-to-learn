@@ -1,4 +1,4 @@
-# [# Проект "научиться учиться"](https://takeyourenergy.github.io/how-to-learn/)
+# [# Проект "Научиться учиться"](https://takeyourenergy.github.io/how-to-learn/)
 
 ## Описание:
 _проектная работа написана для получения навыков в статической вёрстке._
