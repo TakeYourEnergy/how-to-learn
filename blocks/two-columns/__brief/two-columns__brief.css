@@ -1,0 +1,9 @@
+.two-columns__brief {
+  font-family: 'inter';
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 120%;
+  color: #2F80ED;
+  max-width: 175px;
+  margin: 0;
+}

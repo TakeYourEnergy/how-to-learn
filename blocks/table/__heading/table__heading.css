@@ -1,0 +1,9 @@
+@import url(./_theme/table__heading_theme_dark.css);
+
+.table__heading {
+  font-family: 'inter';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 115%;
+  margin: 0;
+}

@@ -1,0 +1,4 @@
+/* *Согласно БЭМ описывать внешние отступы для блока не рекомендуется. */
+.two-columns_section_description {
+  margin: 100px auto;
+}

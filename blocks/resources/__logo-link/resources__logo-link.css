@@ -1,0 +1,13 @@
+.resources__logo-link{
+}
+
+.resources__logo-link:hover{
+  opacity: 0.5;
+  transition: 1s;
+}
+
+.resources__logo-link:last-of-type:hover{
+  opacity: 0.8;
+  transition: 1s;
+}
+

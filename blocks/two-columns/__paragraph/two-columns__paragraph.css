@@ -1,0 +1,8 @@
+.two-columns__paragraph {
+  margin: 0 0 30px 0;
+}
+
+/* *находит последнего потомка с заданным тегом в списке детей родительского элемента*/
+.two-columns__paragraph:last-of-type {
+  margin-bottom: 0;
+}
