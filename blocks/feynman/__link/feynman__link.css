@@ -1,6 +1,5 @@
 .feynman__link {
   position: absolute;
-  font-family: 'inter';
   font-weight: normal;
   font-size: 36px;
   line-height: 51px;
@@ -8,8 +7,8 @@
   color: #2F80ED;
   text-decoration: none;
   top: 50%;
-  right: 38px;
-
+  right: 48px;
+  transform: translateY(-50%);
 }
 
 .feynman__link:hover {

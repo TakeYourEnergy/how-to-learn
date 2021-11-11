@@ -1,7 +1,6 @@
 @import url(./_theme/table__text_theme_dark.css);
 
 .table__text {
-  font-family: 'inter';
   font-weight: normal;
   font-size: 18px;
   line-height: 120%;

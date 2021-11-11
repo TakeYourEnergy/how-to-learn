@@ -1,12 +1,9 @@
 .khan__buy-link {
-  font-family: 'inter';
   color: #2F80ED;
   font-weight: normal;
   font-size: 30px;
   line-height: 42px;
   text-decoration: none;
-  width: 240px;
-  height: 42px;
 }
 
 .khan__buy-link:hover {
