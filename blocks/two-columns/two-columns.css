@@ -2,11 +2,10 @@
 @import url(./__paragraph/two-columns__paragraph.css);
 @import url(./__span-accent/two-columns__span-accent.css);
 @import url(./__text/two-columns__text.css);
-@import url(./_section/two-columns_section_description.css);
-@import url(./_section/two-columns_section_oakley.css);
 
 .two-columns {
   display: flex;
   justify-content: space-between;
   width: 80%;
+  margin: 100px auto;
 }
