@@ -1,7 +1,4 @@
-@import url(./__brief/two-columns__brief.css);
-@import url(./__paragraph/two-columns__paragraph.css);
-@import url(./__span-accent/two-columns__span-accent.css);
-@import url(./__text/two-columns__text.css);
+
 
 .two-columns {
   display: flex;
