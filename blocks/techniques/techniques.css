@@ -3,5 +3,6 @@
   flex-direction: column;
   width: 80%;
   align-items: center;
-  margin: 0 auto 100px;
+  margin: 0 auto;
+  padding: 100px 0 0;
 }

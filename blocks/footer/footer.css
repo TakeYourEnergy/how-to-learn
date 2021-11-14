@@ -9,4 +9,7 @@
 
 .footer {
   background-color: #1f1f1f;
+  display: flex;
+  padding-top: 60px;
+  padding-bottom: 40px;
 }
