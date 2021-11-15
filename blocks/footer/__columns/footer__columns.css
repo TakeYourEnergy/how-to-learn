@@ -1,5 +1,4 @@
 .footer__columns {
-  min-height: 350px;
   display: flex;
   justify-content: space-between;
   width: 90%;
